@@ -1,4 +1,9 @@
 # Description
+## Important
+You can install Filza and Apps Manager from SSH (use script install_filza.sh and install_am.sh)
+More info please read this page: https://www.tigisoftware.com/default/?p=348
+
+## Description
 
 Blah blah, read this: [How to make a jailbreak without a filesystem remount as r/w](https://github.com/jakeajames/rootlessJB/blob/master/writeup.pdf)
 
