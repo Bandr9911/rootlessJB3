@@ -6,10 +6,10 @@ exit 1
 fi
 
 pushd /var/tmp/
-echo "1. Download Filza File Manager"
+echo "1. Download Apps Manager"
 wget http://tigisoftware.com/rootless/ADMHelper.tar
 wget http://tigisoftware.com/rootless/ADManager.app.tar
-echo "2. Install Filza File Manager"
+echo "2. Install Apps Manager"
 mkdir /var/containers/Bundle/tweaksupport/data
 rm -rf /var/containers/Bundle/tweaksupport/data/ADM*
 rm -rf /var/bin/ADM*
