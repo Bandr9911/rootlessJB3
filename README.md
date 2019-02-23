@@ -1,6 +1,6 @@
 # Description
 ## Important
-unc0ver Jailbreak release (http://github.com/pwn20wndstuff/Undecimus). it is full and stable jailbreak. Please install it and install Filza File Manager from repo http://tigisoftware.com/cydia/
+unc0ver Jailbreak released (http://github.com/pwn20wndstuff/Undecimus). it is full and stable jailbreak. Please install it and install Filza File Manager from repo http://tigisoftware.com/cydia/
 
 
 
