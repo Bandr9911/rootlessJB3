@@ -1,7 +1,8 @@
 # Description
 ## Important
-You can install Filza and Apps Manager from SSH (use script install_filza.sh and install_am.sh)
-More info please read this page: https://www.tigisoftware.com/default/?p=348
+unc0ver Jailbreak release (http://github.com/pwn20wndstuff/Undecimus). it is full and stable jailbreak. Please install it and install Filza File Manager from repo http://tigisoftware.com/cydia/
+
+
 
 ## Description
 
